@@ -9,8 +9,7 @@
 </div>
   
 <div>
-
-  
+<br>
 👨‍💻 Desenvolvedor Web | Especializado em JavaScript, TypeScript, HTML e CSS 👨‍💻
   
 Olá, sou Kaynan Carvalhaes e Silva, um desenvolvedor web com experiência sólida em front-end e back-end. com foco em tecnologias como JavaScript, TypeScript, HTML e CSS.
