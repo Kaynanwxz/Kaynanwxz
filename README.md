@@ -9,15 +9,15 @@
 </div>
   
 <div>
-  <h1>  👨‍💻 Desenvolvedor Web | Especializado em JavaScript, TypeScript, HTML e CSS 👨‍💻</h1><br>
-  <h1>Olá, sou Kaynan Carvalhaes e Silva, um desenvolvedor web com experiência sólida em front-end e back-end. com foco em tecnologias como JavaScript, TypeScript, HTML e CSS.</h1><br>
-  <h1>🛠️ Habilidades Técnicas:</h1><br><br>
-  <h1>Domínio de JavaScript e TypeScript para criação de aplicações dinâmicas e interativas.</h1>
-  <h1>Experiência sólida em HTML e CSS para design elegante e layout eficaz.</h1>
-  <h1>Competência em integração de APIs.</h1>
-  <h1>🔗 Estou interessado em conectar com profissionais da área, compartilhar conhecimentos e explorar oportunidades de colaboração. Aberto a desafios inovadores e projetos empolgantes.</h1>
+👨‍💻 Desenvolvedor Web | Especializado em JavaScript, TypeScript, HTML e CSS 👨‍💻
+  
+Olá, sou Kaynan Carvalhaes e Silva, um desenvolvedor web com experiência sólida em front-end e back-end. com foco em tecnologias como JavaScript, TypeScript, HTML e CSS.
+🛠️ Habilidades Técnicas:
 
+Domínio de JavaScript e TypeScript para criação de aplicações dinâmicas e interativas.
+Experiência sólida em HTML e CSS para design elegante e layout eficaz.
+Competência em integração de APIs.
 
-
+🔗 Estou interessado em conectar com profissionais da área, compartilhar conhecimentos e explorar oportunidades de colaboração. Aberto a desafios inovadores e projetos empolgantes.
 
 </div>
