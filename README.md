@@ -1,25 +1,46 @@
-## eu sou a Kaynan Carvalhães, programador Full Stack
+<h1 align="center">Kaynan Carvalhães</h1>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kaynan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaynan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Kaynan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kaynan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kaynan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<br>
-<div>
+<p align="center">
+  <strong>Backend / Full-Stack Developer</strong><br/>
+  Java • Spring Boot • Angular • PostgreSQL
+</p>
 
-👨‍💻 Desenvolvedor Web | Especializado em JavaScript, TypeScript, HTML e CSS 👨‍💻
+<p align="center">
+  Desenvolvo APIs, sistemas com autenticação, regras de negócio e aplicações web focadas em problemas reais.
+</p>
 
-Olá, sou Kaynan Carvalhaes e Silva, um desenvolvedor web com experiência sólida em front-end e back-end. com foco em tecnologias como JavaScript, TypeScript, HTML e CSS.
+---
 
-🛠️ Habilidades Técnicas:
+### Sobre
 
-Domínio de JavaScript e TypeScript para criação de aplicações dinâmicas e interativas.
-Experiência sólida em HTML e CSS para design elegante e layout eficaz.
-Competência em integração de APIs.
+- Foco atual em desenvolvimento **Backend com Java e Spring Boot**.
+- Experiência construindo **APIs REST, autenticação JWT, validações e persistência de dados**.
+- Desenvolvimento frontend com **Angular, TypeScript, HTML e CSS/SCSS**.
+- Conhecimento em **PostgreSQL, SQL, JPA/Hibernate, Spring Security, Git e Maven**.
+- Também trabalho com **C# / .NET** e integrações entre sistemas.
+- Aberto a oportunidades como **Desenvolvedor Backend Java / Full-Stack**.
 
-🔗 Estou interessado em conectar com profissionais da área, compartilhar conhecimentos e explorar oportunidades de colaboração. Aberto a desafios inovadores e projetos empolgantes.
+### Stack principal
 
-</div>
+`Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `PostgreSQL` · `JWT`
+
+`Angular` · `TypeScript` · `HTML` · `CSS / SCSS`
+
+`C#` · `.NET` · `Git` · `Maven` · `REST APIs`
+
+### Projetos em destaque
+
+| Projeto | O que demonstra | Tecnologias |
+| --- | --- | --- |
+| [**Bankario**](https://github.com/Kaynanwxz/Bankario) | API REST para usuários e contas, autenticação JWT, BCrypt, validações e regras de negócio | Java, Spring Boot, JPA, PostgreSQL, JWT |
+| [**Arin RPG**](https://github.com/Kaynanwxz/arin-rpg) | Backend de RPG com cadastro/login, autenticação, persistência e validações | Java, Spring Boot, Spring Security, JPA, JWT |
+
+### O que procuro construir
+
+Gosto de trabalhar em projetos onde o backend precisa ser organizado, seguro e fácil de evoluir — APIs, sistemas administrativos, integrações, autenticação e aplicações que lidam com dados e regras de negócio.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Kaynanwxz?tab=repositories">Ver todos os repositórios</a>
+</p>
