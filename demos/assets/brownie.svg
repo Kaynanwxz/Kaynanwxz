@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="900" viewBox="0 0 700 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f2eb"/>
+      <stop offset="100%" stop-color="#ece3d9"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#9a8473" flood-opacity=".25"/>
+    </filter>
+  </defs>
+  <rect width="700" height="900" fill="url(#bg)"/>
+  <g filter="url(#s)">
+    <ellipse cx="350" cy="650" rx="210" ry="34" fill="#d9d2ca"/>
+    <ellipse cx="350" cy="622" rx="186" ry="30" fill="#fbfbfa"/>
+    <rect x="243" y="471" width="160" height="96" rx="14" fill="#6d432e"/>
+    <path d="M243 506c55 14 107 18 160 5" fill="none" stroke="#81553c" stroke-width="8"/>
+    <ellipse cx="430" cy="454" rx="56" ry="66" fill="#f5efdf"/>
+    <path d="M391 455c27-18 58-16 80 0" fill="none" stroke="#e9e0cd" stroke-width="12" stroke-linecap="round"/>
+    <path d="M320 473c58 44 104 84 126 150" fill="none" stroke="#5e2f1f" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="457" cy="428" r="5" fill="#d7ba78"/><circle cx="472" cy="441" r="4" fill="#d7ba78"/>
+  </g>
+</svg>

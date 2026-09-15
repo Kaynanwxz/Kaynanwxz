@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="900" viewBox="0 0 700 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f2ed"/>
+      <stop offset="100%" stop-color="#ebe4da"/>
+    </linearGradient>
+    <linearGradient id="wallet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#846554"/>
+      <stop offset="100%" stop-color="#5b4337"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#8e7a6e" flood-opacity=".3"/>
+    </filter>
+  </defs>
+  <rect width="700" height="900" fill="url(#bg)"/>
+  <g filter="url(#s)">
+    <rect x="154" y="300" width="392" height="246" rx="28" fill="url(#wallet)"/>
+    <rect x="154" y="363" width="392" height="183" rx="24" fill="#735646"/>
+    <rect x="264" y="403" width="184" height="96" rx="16" fill="#8d6d5a"/>
+    <circle cx="423" cy="451" r="12" fill="#d7ba78"/>
+  </g>
+</svg>
