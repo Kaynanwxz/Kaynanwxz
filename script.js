@@ -4,7 +4,7 @@
 // WhatsApp: somente números, com 55 + DDD + número.
 // =============================================
 const CONTACT = {
-  whatsapp: "5512981120575",
+  whatsapp: "5512992187750",
   email: "Kaynankaragua@gmail.com",
   discord: "thekay0001"
 };
