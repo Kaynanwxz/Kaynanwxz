@@ -116,5 +116,29 @@ body.modal-open{overflow:hidden}
 @media(max-width:450px){.pavilion-window{width:calc(100vw - 12px);max-width:calc(100vw - 12px);height:calc(100dvh - 16px);max-height:calc(100dvh - 16px);padding:4px;border-radius:19px}.dialog-header{padding:18px 16px;gap:12px}.dialog-header h2{font-size:29px}.window-scroll{padding:0 9px 11px}.window-niche{border-radius:18px 18px 9px 9px}#dialog-content{padding:22px 17px}.demo-tabs{gap:7px}.demo-tabs button{padding:10px 13px;font-size:12px}.product-grid,.quote-choices{grid-template-columns:minmax(0,1fr)}.product>img{aspect-ratio:1.3}.product h4{font-size:20px}.product .product-description{min-height:0;font-size:13px}.product button{font-size:13px}.product-body{padding:19px}.shop-header h3{font-size:39px}.cart-panel{padding:22px 18px}.case-details>h3{font-size:34px}.case-details>p{font-size:14px}.quote-layout{padding:22px 18px}.quote-choices button{min-height:56px}.quote-actions .solid-button{min-width:0;flex:1 1 120px}.flow-actions>.solid-button,.flow-actions>.secondary-button{width:100%}.restaurant-demo-hero{padding:33px 22px}.restaurant-demo-hero h3{font-size:39px}.restaurant-demo-body{padding:22px}.agenda-panel{padding:22px 18px}.slot-grid{gap:6px}.slot-grid button{font-size:12px}.flow-log{padding:22px 18px}.demo-table th,.demo-table td{padding:12px}.table-scroll{border-radius:10px}.send-message{font-size:13px}.case-feature-list li{padding:16px}.contact-step-controls{gap:10px}.contact-step-controls .solid-button{flex-basis:135px}}
 @media(max-width:359px){.dialog-header h2{font-size:27px}#dialog-content{padding:20px 14px}.window-scroll{padding-left:7px;padding-right:7px}.quote-layout{padding:22px 15px}.shop-header h3{font-size:37px}}
 .agenda-days b:nth-child(2) small{color:#274459}
+/* Entrance: fit each exhibit to its own stone niche, clear of plants and ledges. */
+@media(min-width:1400px){
+ .hero-bays{left:0;right:0;top:55.9%;height:18.6%;display:block}
+ .hero-bay{position:absolute;top:0;height:100%;display:grid;grid-template-columns:minmax(0,1fr) 10.4cqw;grid-template-rows:minmax(0,1fr) auto;column-gap:.8cqw;row-gap:.3cqw}
+ .hero-bay:nth-child(1){left:9%;width:21.5%}
+ .hero-bay:nth-child(2){left:38.7%;width:24.3%}
+ .hero-bay:nth-child(3){left:70.8%;width:22.2%}
+ .hero-bay .index{margin-bottom:2px}
+ .hero-bay h2{margin-bottom:4px}
+ .hero-bay .bay-subtitle{max-width:none}
+ .hero-bay .bay-description{margin-top:7px;font-size:clamp(12px,.77cqw,15px);line-height:1.5}
+ .hero-bay .artifact{width:100%;aspect-ratio:1.35;align-self:end;margin:0}
+ .hero-bay .portal-link{min-width:0;width:100%;margin:0;white-space:normal;line-height:1.25}
+ .hero-bay .mini-dashboard{padding:clamp(9px,.65cqw,13px)}
+ .hero-bay .screen-caption{font-size:clamp(5px,.33cqw,7px);line-height:1.2}
+ .hero-bay .mini-dashboard>strong{font-size:clamp(8px,.58cqw,12px);line-height:1.2;margin-top:.42cqw}
+ .hero-bay .mini-kpis{margin-top:.4cqw;gap:.9cqw}
+ .hero-bay .mini-kpis>span{font-size:clamp(5px,.4cqw,8px);line-height:1.2}
+ .hero-bay .mini-kpis b{font-size:1.2cqw;line-height:1.1}
+ .hero-bay .mini-bars{height:1.3cqw;padding-top:0}
+ .hero-bay .glass-nodes{gap:.2cqw;padding:.45cqw}
+ .hero-bay .glass-nodes>span{padding:.24cqw .45cqw;line-height:1.3}
+ .hero-bay .glass-nodes>b{font-size:clamp(6px,.4cqw,8px);line-height:1}
+}
 @keyframes window-in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.js .reveal{opacity:1;transform:none}.pavilion-window{transform:none}}
